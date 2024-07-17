@@ -1,3 +1,3 @@
 export function Button() {
-  return <div>Button</div>;
+  return <button>React Button</button>;
 }
